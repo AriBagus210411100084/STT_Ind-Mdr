@@ -50,6 +50,3 @@ tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
 wheel==0.45.1
-SpeechRecognition
-python-decouple
-pyaudio
