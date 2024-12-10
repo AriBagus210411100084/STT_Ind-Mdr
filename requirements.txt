@@ -10,6 +10,7 @@ click==8.1.7
 colorama==0.4.6
 contourpy==1.1.1
 cycler==0.12.1
+distutils-pytest
 entrypoints==0.4
 Faker==20.0.3
 favicon==0.7.0
