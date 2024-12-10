@@ -26,6 +26,7 @@ pillow==11.0.0
 pip-tools==7.4.1
 protobuf==5.29.1
 pyarrow==18.1.0
+PyAudio
 pydeck==0.9.1
 Pygments==2.18.0
 pyproject_hooks==1.2.0
