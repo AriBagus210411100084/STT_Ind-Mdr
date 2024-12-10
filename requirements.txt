@@ -25,9 +25,7 @@ pandas==2.2.3
 pillow==11.0.0
 pip-tools==7.4.1
 protobuf==5.29.1
-portaudio
 pyarrow==18.1.0
-PyAudio
 pydeck==0.9.1
 Pygments==2.18.0
 pyproject_hooks==1.2.0
@@ -42,9 +40,7 @@ scipy==1.14.1
 setuptools==75.6.0
 six==1.17.0
 smmap==5.0.1
-SpeechRecognition
 streamlit==1.40.2
-sounddevice
 tenacity==9.0.0
 threadpoolctl==3.5.0
 toml==0.10.2
